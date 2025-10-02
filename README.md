@@ -74,13 +74,13 @@ Unity_Exports/
 
 └── unityLibrary/
 
-├── src/
+  ├── src/
 
-├── libs/
+  ├── libs/
 
-├── build.gradle
+  ├── build.gradle
 
-└── AndroidManifest.xml
+    └── AndroidManifest.xml
 
 ---
 
