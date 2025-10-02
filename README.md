@@ -73,13 +73,9 @@ You can then include this `unityLibrary` as a module in the host Kotlin/Compose 
 Unity_Exports/
 
 └── unityLibrary/
-
   ├── src/
-
   ├── libs/
-
   ├── build.gradle
-
     └── AndroidManifest.xml
 
 ---
